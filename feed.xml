@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog MindCapital</title>
+    <link href="https://astom.com/feed.xml" rel="self" />
+    <link href="https://astom.com" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Ast0m</name>
+    </author>
+    <id>https://astom.com</id>
+
+</feed>

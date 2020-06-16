@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1591823108230,
+                "label": "Mind Capital",
+                "title": "",
+                "type": "external",
+                "target": "_blank",
+                "rel": "",
+                "link": "https://mind.capital/",
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1591823143182,
+                "label": "Log In",
+                "title": "",
+                "type": "external",
+                "target": "_blank",
+                "rel": "",
+                "link": "https://accounts.mind.capital/login",
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1591823185148,
+                "label": "Sign Up",
+                "title": "",
+                "type": "external",
+                "target": "_blank",
+                "rel": "",
+                "link": "https://accounts.mind.capital/register?referral=",
+                "cssClass": "",
+                "items": []
+            }
+        ]
+    }
+]

@@ -82,6 +82,15 @@ document.getElementById("status").innerHTML = '<p>Welcome '+response.name+'! <a 
 });
 }
 </script>
+
+//dialogflow
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Nuevo"
+  agent-id="f3a14e06-1332-48c6-b41f-c3a55f4008b3"
+  language-code="es"
+></df-messenger>
 <!--
 Below we include the Login Button social plugin. This button uses
 the JavaScript SDK to present a graphical Login button that triggers

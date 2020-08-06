@@ -9,7 +9,7 @@
 <center>
 <h1>Bienvenido a mi pagina</h1>
 
- <img src="ojo.gif" alt="">
+ 
 <script>
 // This is called with the results from from FB.getLoginStatus().
 function statusChangeCallback(response) {

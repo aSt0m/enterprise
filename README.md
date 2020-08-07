@@ -95,10 +95,7 @@ the FB.login() function when clicked.
 </fb:login-button>
 <div id="status">
 </div>
-<script type="text/javascript">
-</script>
-</center>
- //dialogflow
+
 
 </body>
 </html>
